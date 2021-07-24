@@ -1,17 +1,4 @@
-# Ignore compiler project files
-*.atools
-*.amake
-*.amake.bk
-*.o
-*.app
-*.exe
-mrweprefs.r
-project.r
-absoft_run_env.sh
-Release
-AWE_Preferences.f95
-
-# Ignore Mac OS X system files
-.DS_Store
+# Vim tags
+tags
 
 build/
